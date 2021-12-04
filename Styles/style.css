@@ -72,12 +72,8 @@ header{
 		width: 100%;
 		height: 20px;
 	}
-	h2{
-		padding: 5%;
+	.titu{
+		margin-top: 200px;
+		text-align: center;
+	
 	}
-.titu{
-	margin-top: 200px;
-	font-family: 'Lato', sans-serif;
-	font-weight: 300px;
-	line-height: 1.5;
-}
