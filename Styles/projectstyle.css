@@ -1,0 +1,113 @@
+body{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	line-height: 1.5;
+	color: #333;
+    margin-top: 150px;
+    background-color: #efefef;
+}
+a{
+	color: #84b4b1;
+	font-weight: bold;
+}
+
+
+header{
+	background-color: #84b4b1;
+	color: #fff;
+	text-align: center;
+	padding: 1px 0 90px;
+	height: 5px;
+}
+	h1{
+		text-align: center;
+		text-transform: uppercase;
+		font-size: 45px;
+		font-weight: 400;
+		letter-spacing: 3px;
+		line-height: .8;
+		padding-top: 5px;
+		font-family: 'Montserrat', sans-serif;
+
+    }
+
+	ul {
+		text-align: center;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color:#84b4b1;
+	  }
+	  
+	  li {
+		margin:0;
+		display: inline-block;
+	  }
+	  
+	  li a {
+		color: white;
+		padding: 14px 80px;
+		text-decoration: none;
+	  }
+	  
+	  /* Change the link color to #111 (black) on hover */
+	  li a:hover {
+		text-decoration: overline;
+	  }
+	  .topmenu{
+		top: 0;
+		width: 100%;
+		transition: 0.2s; 
+		position:fixed;
+		}
+
+.project{
+  margin: 10px;
+  width:60%;
+  height: 200px;
+  margin-left:1%;
+  border-radius: 25px;
+  background-color: #eeeeee;
+}
+img{
+  height:200px;
+  float:left;
+}
+.boxtext{
+  margin-left: 6px;
+  float:left;
+}
+
+.gif{
+	text-align: center;
+}
+
+.vid{
+	text-align: center;
+}
+
+.gittxt{
+    font-size: 45px;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    
+    
+}
+
+.gitimg{
+    width:85px;
+    height: 85px;
+    float: left;
+}
+.gitlink{
+    text-decoration: none;
+}
+.git{
+  
+    width: 330px;
+    height: 85px;
+    border-radius:20px;
+    background-color: black
+
+}
